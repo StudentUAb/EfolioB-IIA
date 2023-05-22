@@ -56,7 +56,7 @@ O projeto foi feito em Python e Streamlit
 The project was done with Python e Streamlit
 
 
-<img width="600" src="iia.gif" alt="page-home">
+<img width="800" src="iia.gif" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
