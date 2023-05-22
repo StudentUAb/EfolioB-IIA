@@ -14,7 +14,7 @@ O problema da Cidade Muralhada Medieval apresenta um desafio de otimização que
 
 📌 Programa sobre # Algoritmos de Busca - Problema da Cidade Muralhada Medieval
 
-Linguagens de Programação Python - EfolioB - Introdução à Inteligência Artificial
+EfolioB - Introdução à Inteligência Artificial
 ------------------
 
 Para executar o código fornecido, você precisará ter o Python instalado em seu computador, juntamente com as bibliotecas necessárias. As bibliotecas utilizadas no código são:
