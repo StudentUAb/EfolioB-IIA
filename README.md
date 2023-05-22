@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="assets/javaprolog.png" />
+    <img width="600" src="assets/streamlit.png" />
 </h1>
 
 
@@ -58,7 +58,7 @@ O projeto foi feito em Python e Streamlit
 The project was done with Python e Streamlit
 
 
-<img width="400" src="assets/print.png" alt="page-home">
+<img src="iaa.gif" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
