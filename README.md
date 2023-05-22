@@ -17,7 +17,7 @@ O problema da Cidade Muralhada Medieval apresenta um desafio de otimização que
 Linguagens de Programação Python - EfolioB - Introdução à Inteligência Artificial
 ------------------
 
-## Para executar o código fornecido, você precisará ter o Python instalado em seu computador, juntamente com as bibliotecas necessárias. As bibliotecas utilizadas no código são:
+Para executar o código fornecido, você precisará ter o Python instalado em seu computador, juntamente com as bibliotecas necessárias. As bibliotecas utilizadas no código são:
 
 streamlit
 numpy
