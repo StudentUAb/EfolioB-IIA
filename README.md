@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="streamlit.png" />
+    <img width="600" src="streamlit.jpg" />
 </h1>
 
 
@@ -48,8 +48,6 @@ Certifique-se de que o arquivo "tabela.csv" esteja no mesmo diretório do arquiv
 
 
 
-
-
 No Visual Studio Code no MacOS
 
 O projeto foi feito em Python e Streamlit
@@ -58,7 +56,7 @@ O projeto foi feito em Python e Streamlit
 The project was done with Python e Streamlit
 
 
-<img src="iia.gif" alt="page-home">
+<img width="600" src="iia.gif" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
