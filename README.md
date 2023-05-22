@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="assets/streamlit.png" />
+    <img width="600" src="streamlit.png" />
 </h1>
 
 
@@ -15,7 +15,7 @@ O problema da Cidade Muralhada Medieval apresenta um desafio de otimização que
 📌 Programa sobre # Algoritmos de Busca - Problema da Cidade Muralhada Medieval
 Linguagens de Programação Python - EfolioB - Introdução à Inteligência Artificial
 ------------------
-<img width="400" src="assets/tela.png" alt="page-home">
+
 ## Para executar o código fornecido, você precisará ter o Python instalado em seu computador, juntamente com as bibliotecas necessárias. As bibliotecas utilizadas no código são:
 
 streamlit
@@ -58,7 +58,7 @@ O projeto foi feito em Python e Streamlit
 The project was done with Python e Streamlit
 
 
-<img src="iaa.gif" alt="page-home">
+<img src="iia.gif" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
